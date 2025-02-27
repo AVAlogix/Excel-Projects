@@ -1,5 +1,6 @@
 # Coffee Sales Dashboard
 
+
 ## Project Overview:
 
 This project involved designing an interactive sales dashboard for a coffee store, focusing on converting raw sales data into valuable insights to support business decision-making. The process included data           collection, cleaning, transformation, and visualization to extract meaningful patterns and trends.
@@ -7,6 +8,15 @@ This project involved designing an interactive sales dashboard for a coffee stor
 ## Tech Stack
 
 Microsoft Excel
+
+
+## Dashboard Preview:
+![coffeeOrdersDashboard](https://github.com/user-attachments/assets/7791013a-913a-4793-ad1a-69db6f66b05d)
+
+    A snapshot of the interactive dashboard is shown above
+
+##Dashboard :
+https://github.com/AVAlogix/Excel-Projects/blob/main/Coffee%20Sales%20Dashboard.xlsx
 
 ## Key Skills Applied:
 
@@ -44,10 +54,6 @@ Mo Chen - https://github.com/mochen862/excel-project-coffee-sales
 
     - Created calculated fields like “Sales” and “Coffee Type Name” using the IF function.
 
-## Data Analysis & Insights:
-![coffeeOrdersDashboard](https://github.com/user-attachments/assets/7791013a-913a-4793-ad1a-69db6f66b05d)
-
-    A snapshot of the interactive dashboard is shown below
 ### Three pivot tables were generated to analyze key aspects of sales performance, focusing on:
 
     - Sales trends over time.
