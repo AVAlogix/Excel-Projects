@@ -15,7 +15,7 @@ Microsoft Excel
 
     A snapshot of the interactive dashboard is shown above
 
-##Dashboard :
+## Dashboard :
 https://github.com/AVAlogix/Excel-Projects/blob/main/Coffee%20Sales%20Dashboard.xlsx
 
 ## Key Skills Applied:
